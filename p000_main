@@ -1,0 +1,5 @@
+from p001_project_setup import P001_Project_Setup
+from p002_get_values import P002_Get_Values
+
+P001_Project_Setup()
+P002_Get_Values()
